@@ -2,7 +2,7 @@
 
 The accessibility monitoring platform is to support the accessibility auditing process in GDS.
 
-The audit is to review if the data created is meeting our requirements and could reveal future requirements.
+The audit is to review if our data is meeting our requirements.
 
 ---
 
