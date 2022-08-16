@@ -3,4 +3,5 @@ init:
 		&& pip install --upgrade pip \
 		&& pip install pipenv \
 		&& pipenv install \
-		&& python prepare_local_db.py
+		&& python prepare_local_db.py \
+		&& mkdir -p images

@@ -1,6 +1,7 @@
 # Repo specific files
 .pytest_cache/
 data/*
+images/*
 
 
 # Byte-compiled / optimized / DLL files
