@@ -17,6 +17,7 @@ pycodestyle-magic = "*"
 black = "*"
 scipy = "*"
 seaborn = "*"
+sklearn = "*"
 
 [dev-packages]
 
