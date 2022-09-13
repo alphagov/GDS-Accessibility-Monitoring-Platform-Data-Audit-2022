@@ -36,7 +36,7 @@ make init
 
 ---
 
-## Viewing the notebooks
+## Viewing and editing the notebooks
 
 1. Launch jupyter notebook with `jupyter notebook`
 2. Navigate to the notebooks folder
